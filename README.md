@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning with help from Factoria F5.
 - 💬 Ask me about Github
 
-https://github.com/github/docs/labels/enhancement
